@@ -1,0 +1,5 @@
+a= input("Biror gap yozing:")
+b= input("qaysi sozni almashtirish lozim:")
+c= input("qaysi sozga:")
+d=a.replace(b,c)
+print("natija:",d)

@@ -1,0 +1,5 @@
+a=input("so'zni kiriting")
+b=a.lower()
+c=a.upper()
+print(b)
+print(c)

@@ -1,0 +1,1 @@
+print("LMaasleitbtui"[::2])
