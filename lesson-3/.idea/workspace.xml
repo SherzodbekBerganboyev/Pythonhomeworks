@@ -5,125 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="246f8f8c-363a-425f-a3d7-3220bc32d27a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lesson-3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/dic9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/list9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/set9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/tuple9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -183,6 +65,9 @@
       <workItem from="1747685716166" duration="115000" />
       <workItem from="1747685839171" duration="28000" />
       <workItem from="1747685885526" duration="1729000" />
+      <workItem from="1747715956248" duration="6000" />
+      <workItem from="1747725027092" duration="9000" />
+      <workItem from="1747815836055" duration="169000" />
     </task>
     <servers />
   </component>
