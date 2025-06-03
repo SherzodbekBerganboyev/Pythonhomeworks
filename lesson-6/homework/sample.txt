@@ -1,1 +1,1 @@
-qonday ey makkamma
+This is a simple test file. This file is created for testing word frequency counting. The word test appears multiple times in this test file.

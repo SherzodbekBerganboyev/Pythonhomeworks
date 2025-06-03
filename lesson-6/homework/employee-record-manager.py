@@ -1,61 +1,86 @@
-FILE = 'C:/Users/sherz/OneDrive/Desktop/codes/Python/Pythonhomeworks/lesson-6/homework/employees.txt'
 
-def add_employee(name, position, salary):
-    with open(FILE, 'a') as f:
-        f.write('\n' + ', '.join(
-                [str(id(name + position + str(salary))), name, position, str(salary)]
-            )
-        )
-    print("------ EMPLOYEE ADDED ------\n")
-
-def view():
-    print("------ VIEW ALL ------")
-    with open(FILE, 'r') as f:
-        for line in f.readlines():
-            print(line, end='')
-    print("----------------------\n")
+def main():
+    def yangi_xodim():
+        a = int(input("Xodim ID sini kiriting: "))
+        b = input("Xodim ismini kiriting: ")
+        c = input("Xodim ish nomini kiriting: ")
+        d = int(input("Xodim maoshini kiriting: "))
+        with open("employees.txt", "a") as file:
+            file.write(f"{a},{b},{c},{d}\n")
 
 
-def search(eid):
-    eid = str(eid)
-    with open(FILE, 'r') as f:
-        for line in f.readlines():
-            if line[:line.index(',')] == eid:
-                return line
-    return "EMPLOYEE NOT FOUND"
+    def barcha_xodim():
+        with open("employees.txt", "r") as file:
+            txt = file.read()
+        print(f"{txt}\n*********************************")
 
-def update(eid, name, position, salary):
-    print("------ EMPLOYEE DATA UPDATED ------\n")
-    text = ""
-    with open(FILE, 'r') as f:
-        for line in  f.readlines():
-            if line.split(', ')[0] == str(eid):
-                text += ', '.join([str(eid), name, position, str(salary)]) + "\n"
-                continue
-            text += line
-    f = open(FILE, 'w')
-    f.write(text)
-    f.close()
-    return True
 
-def delete(eid):
-    print("------ EMPLOYEE DELETED ------\n")
-    text = ""
-    with open(FILE, 'r') as f:
-        for line in  f.readlines():
-            if line.split(', ')[0] == str(eid):
-                continue
-            text += line
-    f = open(FILE, 'w')
-    f.write(text)
-    f.close()
-    return True
+    def id_orqali():
+        id = input("ID: ")
+        with open("employees.txt", "r") as file:
+            lines = file.readlines()
+        for line in lines:
+            if line.startswith(id + ","):
+                print(line.strip())
+                break
+        else:
+            print("ID topilmadi")
 
-# add_employee("Asadbek", "Backend developer", 50000)
+    def xodim_malumotlari():
+        id = input("Yangilamoqchi bo‘lgan xodim ID sini kiriting: ")
+        a1 = input("Yangi Xodim ID sini kiriting: ")
+        b1 = input("Yangi Xodim ismini kiriting: ")
+        c1 = input("Yangi Xodim ish nomini kiriting: ")
+        d1 = input("Yangi Xodim maoshini kiriting: ")
 
-view()
-update(140289708755344, "Asadbek", "Backend developer", 10000)
-view()
+        with open("employees.txt", "r") as file:
+            lines = file.readlines()
 
-delete(140289708755344)
-view()
+        for i, line in enumerate(lines):
+            if line.startswith(id + ","):
+                lines[i] = f"{a1},{b1},{c1},{d1}\n"
+                break
+        else:
+            print("ID topilmadi")
+            return  # ID topilmasa, funktsiyani yakunlaymiz
+
+        with open("employees.txt", "w") as file:
+            file.writelines(lines)
+
+        print("Ma'lumot yangilandi!")
+
+    def xodim_yozuvini():
+        id = input("ID: ")
+        with open("employees.txt", "r") as file:
+            lines = file.readlines()
+            for i, line in enumerate(lines):
+                if line.startswith(id + ","):
+                    lines.pop(i)
+                    break
+            else:
+                print("ID topilmadi")
+                return  # ID topilmasa, funktsiyani yakunlaymiz
+            with open("employees.txt", "w") as file:
+                file.writelines(lines)
+
+
+
+    while True:
+        n = int(input("1. Yangi xodim qo‘shish\n2. Barcha xodimlarni ko‘rish\n3. ID orqali xodimni qidirish\n4. Xodim ma’lumotlarini yangilash\n5. Xodim yozuvini o‘chirish\n0. Chiqish\nBuyruqni kiriting: "))
+        if n == 1:
+            yangi_xodim()
+        elif n == 2:
+            barcha_xodim()
+        elif n == 3:
+            id_orqali()
+        elif n == 4:
+            xodim_malumotlari()
+        elif n == 5:
+            xodim_yozuvini()
+        elif n == 0:
+            print('jarayon yakunlandi')
+            break
+        else:
+            print("menuga 1 , 2 , 3 , 4 , 5 , 0 degan buyruqlardan birini bering")
+        continue
+main()

@@ -1,2 +1,4 @@
-1001, John Doe, Software Engineer
-140466503912784, Asadbek, Backend developer, 50000
+1,Ali,Programmist,5000
+2,Vali,Dizayner,4000
+3,Hasan,Analitik,4500
+4,Husan,Testlovchi,3500
